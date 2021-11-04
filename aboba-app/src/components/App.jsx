@@ -2,7 +2,6 @@ import React from 'react';
 import { useState } from "react";
 import phrasesList from './pharses.json';
 import './App.scss';
-import smile from '../images/smile.svg';
 
 const App = () => {
   let randomIndex = Math.floor(Math.random() * phrasesList.length);
