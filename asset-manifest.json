@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/aboba_app/static/css/main.cb910076.chunk.css",
-    "main.js": "/aboba_app/static/js/main.deb65d7c.chunk.js",
-    "main.js.map": "/aboba_app/static/js/main.deb65d7c.chunk.js.map",
+    "main.js": "/aboba_app/static/js/main.68247673.chunk.js",
+    "main.js.map": "/aboba_app/static/js/main.68247673.chunk.js.map",
     "runtime-main.js": "/aboba_app/static/js/runtime-main.f26e19d4.js",
     "runtime-main.js.map": "/aboba_app/static/js/runtime-main.f26e19d4.js.map",
     "static/js/2.26d3dfbb.chunk.js": "/aboba_app/static/js/2.26d3dfbb.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.f26e19d4.js",
     "static/js/2.26d3dfbb.chunk.js",
     "static/css/main.cb910076.chunk.css",
-    "static/js/main.deb65d7c.chunk.js"
+    "static/js/main.68247673.chunk.js"
   ]
 }
