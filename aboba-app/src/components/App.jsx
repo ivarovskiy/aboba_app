@@ -15,7 +15,7 @@ const App = () => {
   }
 
   function callTg() {
-    alert('https://t.me/Ygrik_Kovalev');
+    alert('Tg: @Ygrik_Kovalev');
   }
 
   return (
